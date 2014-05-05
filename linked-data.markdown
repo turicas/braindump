@@ -15,6 +15,8 @@
 
 - [JSON-LD](http://json-ld.org/)
 	- [What is JSON-LD?](https://www.youtube.com/watch?v=vioCbTo3C-4)
+	- [JSON-LD: JSON for the Social
+	Web](http://pt.slideshare.net/gkellogg1/jsonld-json-for-the-social-web)
 
 
 ## Publications
