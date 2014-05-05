@@ -69,6 +69,6 @@ posted on a blog (there's no rule anyway).
 
 ## License
 
-Anything in this repository is released under [Creative Commons
+Everything in this repository is released under [Creative Commons
 Zero](https://creativecommons.org/publicdomain/zero/1.0/) license (read public
 domain).
