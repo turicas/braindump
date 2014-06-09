@@ -1,6 +1,12 @@
-# Peer-to-peer
+# Peer-to-peer (Networks)
+
+## Introduction
 
 - What are [peer-to-peer networks](https://en.wikipedia.org/wiki/Peer-to-peer)
+- [Steven Gordon's lecture on peer-to-peer
+  networks](https://www.youtube.com/watch?v=gn95YTkPoZI)
+- [Peer-to-peer under the hood](https://www.youtube.com/watch?v=MNzMNjW8oGs)
+  (video about p2p algorithms)
 - [Peer-to-peer foundation](http://p2pfoundation.net/)
 
 
@@ -15,18 +21,19 @@
   specification (~52k transactions per day, May 2014)
 - [BitMessage](https://bitmessage.org/) (~20k users in Jan 2014)
 - Twister: a peer-to-peer microblogging network (7.6k known peers in May 2014)
-	- [White paper](http://arxiv.org/pdf/1312.7152v1.pdf)
-	- [Website](http://twister.net.co/)
-- [Coral CDN](http://www.coralcdn.org/)
+  -- [white paper](http://arxiv.org/pdf/1312.7152v1.pdf) and
+  [website](http://twister.net.co/)
+- [Coral CDN](http://www.coralcdn.org/) (p2p content distribution network)
 - [Freenet](https://freenetproject.org/), distributed anonymous information
   storage
 
 
 ## Theory
 
-- [Steven Gordon's lecture on peer-to-peer
-  networks](https://www.youtube.com/watch?v=gn95YTkPoZI)
+### Bootstrapping
+
 - [Bootstrapping of P2P Networks](http://grothoff.org/christian/bootstrap.pdf)
+  (paper)
 
 
 ### Distributed Hash Tables
@@ -77,8 +84,8 @@ Other:
 ### Hash Table Libraries (not distributed)
 
 - [BDB](https://en.wikipedia.org/wiki/Berkeley_DB)
-	- [The Architecture of Open Source Applications: Berkeley
-	DB](http://www.aosabook.org/en/bdb.html)
+  - [The Architecture of Open Source Applications: Berkeley
+    DB](http://www.aosabook.org/en/bdb.html)
 - [LevelDB](https://code.google.com/p/leveldb/)
 - [bitcask](http://downloads.basho.com/papers/bitcask-intro.pdf) (white paper)
 - [Python 3 dbm module](https://docs.python.org/3/library/dbm.html)
@@ -137,5 +144,7 @@ What is [NAT Traversal](http://en.wikipedia.org/wiki/NAT_traversal).
 
 - [Serval](http://www.serval-arch.org/faq/)
 - [uTP](http://www.bittorrent.org/beps/bep_0029.html) (BitTorrent's own
-  protocol for better congestion control than TCP)
+  protocol for better congestion control than TCP) --
+  [article about BitTorrent over uTP performance compared to BitTorrent over
+  TCP](http://perso.telecom-paristech.fr/~drossi/paper/rossi11ledbat_techrep.pdf)
 - [IP Multicast](https://en.wikipedia.org/wiki/IP_multicast)
