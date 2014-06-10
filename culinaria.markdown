@@ -1,13 +1,24 @@
 # Culinária
 
+## Sites
+
 - [Rita Lobo - Panelinha](http://presuntovegetariano.com.br/)
 - [Rita Lobo - Cozinha Prática (GNT)](http://gnt.globo.com/cozinha-pratica/sobre/Rita-Lobo.shtml)
+- [Presunto Vegetariano](http://presuntovegetariano.com.br/) (vegetariano)
+- [Papa Capim Veg](http://www.papacapimveg.com/) (vegetariano)
 
 
-## Vegetarianos
+## Equipamentos
 
-- [Presunto Vegetariano](http://presuntovegetariano.com.br/)
-- [Papa Capim Veg](http://www.papacapimveg.com/)
+- Chaleira elétrica com controle de temperatura (melhor de todas: BonaVita 1L)
+- Balança de cozinha - precisão de 1g (procurar no MercadoLivre)
+- Filtro de água com refrigerador
+- Formas de pão
+- Tigelas de vidro de tamanhos variados
+- Máquina de fazer pão
+- Espátula de silicone (substituta moderna da colher de pau, bastante maleável)
+- Moedor de café elétrico
+
 
 ## Receitas
 
@@ -15,7 +26,8 @@
 
 #### Ingredientes
 
-- 20g de fermento biológico seco
+- 20g de fermento biológico seco (se usar não-seco, tipo o de padaria, usar 3x
+  mais) -- NÃO é fermento químico!
 - 300mL de água morna (entre 40 e 50°C)
 - 30g de açúcar (pode ser cristal ou mesmo mel)
 - 0.6kg de farinha de trigo (sem fermento)
@@ -55,7 +67,7 @@ Usar queijo tipo "Canastra" (feito na Serra da Canastra/MG).
 #### Ingredientes
 
 - 0.5kg de polvilho doce
-- 0.5kg de queijo Canastra
+- 0.5kg de queijo (preferencialmente tipo Canastra) ralado
 - 0.4L de leite
 - 0.2L de óleo
 - 3 ovos (talvez 4, depende do tamanho do ovo)
@@ -85,3 +97,10 @@ Resumo:
 
 Caso você queira congelar as bolinhas, para assá-las (congeladas), coloque-as
 diretamente no forno e deixe por 45min.
+
+
+### Polvilho Doce
+
+[Como fazer polvilho doce][fazer-polvilho-doce]
+
+[fazer-polvilho-doce]: https://www.youtube.com/watch?v=d9Fwk6bURG8
