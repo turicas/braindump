@@ -30,7 +30,7 @@
 
 ## Projects
 
-- [Hydra: Hypermedia-Driven Web APIs](www.hydra-cg.com)
+- [Hydra: Hypermedia-Driven Web APIs](http://www.hydra-cg.com)
 - [JSON API: A Standard For Building APIs in JSON](http://jsonapi.org/)
 
 
