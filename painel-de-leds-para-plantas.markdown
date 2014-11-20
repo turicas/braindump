@@ -28,22 +28,25 @@ fonte de 12V (parecida com um carregador de celular, mas de 12V em vez de 5V) e
 um pouco de paciência. Algumas fotos do processo:
 
 
-![Tampa furada, pronta para receber os LEDs](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10440863_693901914003592_410481462410526823_n.jpg?oh=ab187b0b94d8b6c51156699e9712407b&oe=5397A988&__gda__=1402476066_bfec41b35c87ea61a2b26a03458786d8)
+![Tampa furada, pronta para receber os
+LEDs](images/painel-leds-tampa-furada.jpg)
 
 Tampa furada, pronta para receber os LEDs
 
 
-![Parte de dentro, já com alguns LEDs e resistores ligados](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10390224_693902100670240_5055370483251655223_n.jpg?oh=2436391ddbfa55839fd41b52b3fc6931&oe=5397DE79&__gda__=1402482735_f57d146b70a6b25fde2bd5ad9d453970)
+![Parte de dentro, já com alguns LEDs e resistores
+ligados](images/painel-leds-parte-de-dentro.jpg)
 
 Parte de dentro, já com alguns LEDs e resistores ligados
 
+
 ![Primeira versão (bem gambiarra) do painel de LEDs, com a fonte de
-alimentação](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10325233_693902627336854_5868957308074254330_n.jpg?oh=ca34117775ca5dfcbe44eb08ddb6967c&oe=5397CBCE&__gda__=1402485489_cfab12c71fa50c9e8b90ca72472291a9)
+alimentação](images/painel-leds-primeira-versao.jpg)
 
 Primeira versão (bem gambiarra) do painel de LEDs, com a fonte de alimentação
 
 
-![Painel ligado, funcionando](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10455181_693902720670178_7579770840005276928_n.jpg?oh=adce518d4a246e777633a40a71b5fbdf&oe=5397E02A&__gda__=1402469884_6861d1cd40a1a68e44da08721af35025)
+![Painel ligado, funcionando](images/painel-leds-ligado.jpg)
 
 Painel ligado, funcionando
 
@@ -58,20 +61,22 @@ isso ainda não é o ideal, precisa de mais ventilação, mas era só um teste).
 Ficou assim:
 
 
-![Mudinhas dentro da lixeirinha](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10347406_693975933996190_2854432184103601350_n.jpg?oh=900844e42fb57fded41be0673c1e3f6c&oe=53980BD9&__gda__=1402456143_baf3e9b1d62d56b2565d0c9a5f7ba3bf)
+![Mudinhas dentro da lixeirinha](images/painel-leds-mudinhas-na-lixeirinha.jpg)
 
 Mudinhas dentro da lixeirinha (na verdade essa foto é do segundo teste, mas
 serve só para ilustrar)
 
 
-![Lixeirinha tampada pelo painel de LEDs, com ele ligado](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/1236286_693975993996184_1047026767298264953_n.jpg?oh=ecbfe3a72ce6a68e0d1dfd93437b53bb&oe=5397F6D4&__gda__=1402471486_4a44c59a858a6000ae1fce5b1dbff5c7)
+![Lixeirinha tampada pelo painel de LEDs, com ele
+ligado](images/painel-leds-lixeirinha-ligado.jpg)
 
 Lixeirinha tampada pelo painel de LEDs, com ele ligado
+
 
 Às 4h da manhã de domingo, antes de colocar a mudinha para ser iluminada pelos
 LEDs, tirei uma foto dela:
 
-![Manjericão às 4 da manhã](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10419621_693462430714207_5217644531702825964_n.jpg?oh=0da9ca30e70d626a2e2302ead714c578&oe=5396A42F&__gda__=1402394896_4c8d13456d50462d0aa8fca60e87fa43)
+![Manjericão às 4 da manhã](images/painel-leds-majericao-1.jpg)
 
 Manjericão às 4 da manhã.
 
@@ -80,14 +85,14 @@ Deixei-a direto dentro da lixeirinha (sozinha) sendo iluminada por 14h
 no total. Segue uma foto que tirei ao meio-dia (8h depois):
 
 
-![Manjericão às 12h](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10390152_693462650714185_5836008854449165203_n.jpg?oh=7c52037d73394627f47dd8520b961efe&oe=5396A8AD&__gda__=1402385426_844848766051809479c03bdf1f398544)
+![Manjericão às 12h](images/painel-leds-manjericao-2.jpg)
 
 Manjericão às 12h
 
 
 E a última foto, às 18h (14h depois):
 
-![Manjericão às 18h](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t34.0-12/10339952_693463540714096_1445700758098429952_n.jpg?oh=66b62cb87b92880c1c932d5cef44cbcb&oe=53968B86&__gda__=1402369209_2c977fecf071b1bf4ab7b4cad8dc4ecb)
+![Manjericão às 18h](images/painel-leds-manjericao-3.jpg)
 
 Manjericão às 18h
 
@@ -173,3 +178,16 @@ ainda ficam algumas dúvidas:
   é sadio ou não? Essa quantidade varia conforme a idade da planta? Acredito
   que existam alterações hormonais que possam prejudicar o desenvolvimento da
   planta caso a quantidade de luz seja inadequada.
+
+- Como saber a equivalência entre uma determinada quantidade de LEDs e luz solar
+  de um determinado dia?
+
+
+# Links
+
+- [Calcular distribuição de LEDs e resistores](http://led.linear1.org/led.wiz)
+
+
+# To Do
+
+- Colocar respostas do email da Nícia
