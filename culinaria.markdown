@@ -1,13 +1,33 @@
 # Culinária
 
+Comer é fundamental para viver - bora comer bem! \o/
+
+
+## Sites
+
 - [Rita Lobo - Panelinha](http://presuntovegetariano.com.br/)
 - [Rita Lobo - Cozinha Prática (GNT)](http://gnt.globo.com/cozinha-pratica/sobre/Rita-Lobo.shtml)
+- [Presunto Vegetariano](http://presuntovegetariano.com.br/) (vegetariano)
+- [Papa Capim Veg](http://www.papacapimveg.com/) (vegetariano)
+- [Movimento Slow Food
+  Brasil](http://www.slowfoodbrasil.com/slowfood/o-movimento)
 
 
-## Vegetarianos
+## Equipamentos
 
-- [Presunto Vegetariano](http://presuntovegetariano.com.br/)
-- [Papa Capim Veg](http://www.papacapimveg.com/)
+- Chaleira elétrica com controle de temperatura
+- Balança de cozinha (precisão de 1g)
+- Máquina de fazer pão
+- Espátula de silicone (substituta moderna da colher de pau)
+- Moedor de café elétrico
+- Cooktop por indução: [Electrolux 4
+  bocas](http://loja.electrolux.com.br/cooktop-inducao-ic80-220v-60hz-ic80/p),
+  [Electrolux 1 boca
+  portátil](http://loja.electrolux.com.br/cooktop-inducao-prt-icp30-127v-icp30/p)
+
+Sobre panelas:
+- http://www.ecologiamedica.net/2011/02/qual-panela-ideal.html
+- http://www.ecycle.com.br/component/content/article/35/1335-qual-e-o-melhor-tipo-de-panela.html
 
 ## Receitas
 
@@ -52,6 +72,11 @@ Caso queira fazer o pão integral, basta usar 50% de farinha de trigo integral e
 
 Usar queijo tipo "Canastra" (feito na Serra da Canastra/MG).
 
+Existe uma variação de receita, mais simples e rápida, feita na frigideira
+(polvilho, água, ovos e queijo):
+[Massa versátil de polvilho com
+queijo](http://come-se.blogspot.com.br/2014/05/quinta-sem-trigo-massa-versatil-de.html).
+
 #### Ingredientes
 
 - 0.5kg de polvilho doce
@@ -85,3 +110,15 @@ Resumo:
 
 Caso você queira congelar as bolinhas, para assá-las (congeladas), coloque-as
 diretamente no forno e deixe por 45min.
+
+
+### Polvilho Doce (Fécula de Mandioca, Amido de Mandioca)
+
+- [Como fazer polvilho doce em
+  casa](https://www.youtube.com/watch?v=d9Fwk6bURG8) (a partir da mandioca)
+
+
+### Fermento Biológico
+
+- [*Levain*
+  deisdratado](http://come-se.blogspot.com.br/2014/01/levain-desidratado.html)
