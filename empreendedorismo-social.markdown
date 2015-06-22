@@ -10,3 +10,9 @@
   humanity's most pressing needs
 - [Yunus Social Business](http://www.yunussb.com/): incubadora e financiadora de
   projetos sociais
+
+## Social
+
+- [Conversa com Eduardo Marinho](https://www.youtube.com/watch?v=NMn_1rQ3sms)
+- [Observar e Absorver: Blog do Eduardo
+   Marinho](http://observareabsorver.blogspot.com.br/)
