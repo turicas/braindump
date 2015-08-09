@@ -5,6 +5,23 @@
 - [REST API Tutorial](http://www.restapitutorial.com/)
 - [REST Cookbook](http://restcookbook.com/Basics/hateoas/)
 
+- [Learn REST: A Tutorial](http://rest.elkstein.org/)
+- [Creating an Efficient REST API with
+  HTTP](http://mark-kirby.co.uk/2013/creating-a-true-rest-api/)
+- [Thoughts on RESTful API
+  Design](https://restful-api-design.readthedocs.org/en/latest/)
+- [Principles of Good RESTful API
+  Design](http://codeplanet.io/principles-good-restful-api-design/)
+- [Successful REST API
+  Design](http://blog.clevertech.biz/post/successful-rest-api-design)
+- [Best Practices for Designing a Pragmatic RESTful
+  API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+
+
+## Book
+
+- [REST in Practice](http://shop.oreilly.com/product/9780596805838.do)
+- [RESTful Web APIs](http://shop.oreilly.com/product/0636920028468.do)
 
 ## Videos
 
@@ -30,8 +47,12 @@
 
 ## Projects
 
-- [Hydra: Hypermedia-Driven Web APIs](www.hydra-cg.com)
+- [Hydra: Hypermedia-Driven Web APIs](http://www.hydra-cg.com)
 - [JSON API: A Standard For Building APIs in JSON](http://jsonapi.org/)
+
+## Discussion Lists
+
+- [API Craft](api-craft@googlegroups.com)
 
 
 ## Blogs
@@ -39,3 +60,9 @@
 - [Linking in JSON](http://www.mnot.net/blog/2011/11/25/linking_in_json)
 - [API Best Practices: category
   'restful'](https://blog.apigee.com/taglist/restful)
+
+
+## HTTP-Related
+
+- [HTTP 1.1 just got a major update](http://evertpot.com/http-11-updated) (June
+  2014)

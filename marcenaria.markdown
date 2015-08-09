@@ -277,7 +277,6 @@ Exemplo: [Motomil FBM-160M][motomil-fbm160m]
 - EPI (luvas, óculos, máscaras)
 
 
-## Dúvidas
+## DIY
 
-- 12V ou 18V?
-
+- [Como fazer torno mecânico caseiro](https://www.youtube.com/watch?v=VmoqDvsmrnM)
