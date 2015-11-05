@@ -62,4 +62,6 @@
 - [Canal do Campo à Mesa](https://www.youtube.com/user/docampoamesa)
 - <http://asboasnovas.com/biosfera/conheca-sete-alimentos-que-podem-renascer-a-partir-de-si-mesmos>
 - <http://www.slowfoodbrasil.com/comunidades-do-alimento/comunidades-brasileiras/21-sudeste/>
-- <http://growstuff.org/>
+- [Grow stuff](http://growstuff.org/)
+- (artigo) [Ervas daninhas não! Plantas
+  indicadoras](http://teiaorganica.com.br/blog/ervas-daninhas-nao-plantas-indicadoras/)
