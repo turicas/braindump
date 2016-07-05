@@ -11,7 +11,7 @@ Esse arquivo contem links das aulas do projeto piloto do curso Python24h
 - [Aula01.5: Dúvidas da aula 1](https://www.youtube.com/watch?v=xRBVAS-fPkI)
 - [Aula02: Computadores & Algoritmos](https://www.youtube.com/watch?v=c2w9yLjxJAw)
 - [Aula03: O Terminal](https://youtube.com/watch?v=TmHvCJCgBQ0)
-
+- [Aula04: Variáveis e Tipos de Dados](https://www.youtube.com/watch?v=oiEv8uoiwFE)
 
 ## Links
 
@@ -54,3 +54,12 @@ Esse arquivo contem links das aulas do projeto piloto do curso Python24h
 - <https://technet.microsoft.com/en-us/library/cc755121(v=ws.11).aspx>
 - <http://tutorial.djangogirls.org/en/intro_to_command_line/>
 - <http://blog.justen.eng.br/2014/10/5-dicas-para-digitar-mais-rapido-e-melhor.html>
+
+
+### Aula03
+
+- <https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)>
+- <https://en.wikipedia.org/wiki/Operating_system>
+- <https://en.wikipedia.org/wiki/Random-access_memory>
+- <https://en.wikipedia.org/wiki/String_%28computer_science%29>
+- <https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str>
