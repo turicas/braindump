@@ -12,6 +12,8 @@ Esse arquivo contem links das aulas do projeto piloto do curso Python24h
 - [Aula02: Computadores & Algoritmos](https://www.youtube.com/watch?v=c2w9yLjxJAw)
 - [Aula03: O Terminal](https://youtube.com/watch?v=TmHvCJCgBQ0)
 - [Aula04: Variáveis e Tipos de Dados](https://www.youtube.com/watch?v=oiEv8uoiwFE)
+- [Aula05: E Se...?](https://www.youtube.com/watch?v=An5Jxp9Tddo)
+
 
 ## Links
 
@@ -56,10 +58,22 @@ Esse arquivo contem links das aulas do projeto piloto do curso Python24h
 - <http://blog.justen.eng.br/2014/10/5-dicas-para-digitar-mais-rapido-e-melhor.html>
 
 
-### Aula03
+### Aula04
 
 - <https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)>
 - <https://en.wikipedia.org/wiki/Operating_system>
 - <https://en.wikipedia.org/wiki/Random-access_memory>
 - <https://en.wikipedia.org/wiki/String_%28computer_science%29>
 - <https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str>
+
+
+### Aula05
+
+- <https://en.wikipedia.org/wiki/Floating_point>
+- <https://en.wikipedia.org/wiki/Indent_style>
+- <https://en.wikipedia.org/wiki/Syntax_%28programming_languages%29>
+- <https://en.wikipedia.org/wiki/Boolean_algebra>
+- <https://en.wikipedia.org/wiki/Truth_table>
+- <https://docs.python.org/3/library/stdtypes.html#truth-value-testing>
+- <https://docs.python.org/3/library/stdtypes.html#boolean-operations-and-or-not>
+- <https://what-if.xkcd.com/>
