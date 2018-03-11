@@ -82,7 +82,7 @@ abobrinhas, trocar a pasta por ají amarillo (se disponível) e alho.
 
 #### Ingredientes
 
-- 20g de fermento biológico seco (se usar não-seco, tipo o de padaria, usar 3x
+- 10g de fermento biológico seco (se usar não-seco, tipo o de padaria, usar 3x
   mais) -- NÃO é fermento químico!
 - 300mL de água morna (entre 40 e 50°C)
 - 30g de açúcar (pode ser cristal ou mesmo mel)
