@@ -19,12 +19,18 @@ Telegram](https://t.me/pythonjor).
 
 - [Playlist das
   aulas](https://www.youtube.com/playlist?list=PLDKLIBh3YKkti1P-y_p8RZpbl_HhW6NVB)
+  - [Vídeo 1](https://youtu.be/vIe9vyHjo5M)
+  - [Vídeo 2](https://youtu.be/_xcFEPwBlfk)
+  - [Vídeo 3](https://youtu.be/eQsTLgWk2ks)
+  - [Vídeo 4](https://youtu.be/vSHzY0exiVs)
+  - [Vídeo 5](https://youtu.be/0cZVFWSrCe4)
+  - [Vídeo 6](https://youtu.be/5YvoNj7Xf4Q)
+  - [Vídeo 7](https://youtu.be/MYLsNU_SVDU)
 - [Live da semana](https://www.youtube.com/watch?v=GhF18vlT19s)
 
 ### Leituras
 
-- [Jornalismo & Programação: levando furo de
-  programadores](https://escoladedados.org/manual/cursos/raspagem/jornalismo-programacao-levando-furo-de-programadores/)
+- [Raspagem e Jornalismo de Dados](https://escoladedados.org/tutoriais/raspagem-e-jornalismo-de-dados/)
 - [Pense em Python, capítulo
   2](https://penseallen.github.io/PensePython2e/02-vars-expr-instr.html)
 - [Por que aprender Python pode te levar mais longe na
@@ -61,6 +67,12 @@ Telegram](https://t.me/pythonjor).
 
 - [Playlist das
   aulas](https://www.youtube.com/playlist?list=PLDKLIBh3YKks0AAx5NFFo_UT6B9L1uxvE)
+  - [Vídeo 1](https://youtu.be/vNeVDanp6k0)
+  - [Vídeo 2](https://youtu.be/L7-303KKEgU)
+  - [Vídeo 3](https://youtu.be/zBKAVLwD1NM)
+  - [Vídeo 4](https://youtu.be/H6gM2p4HLzM)
+  - [Vídeo 5](https://youtu.be/e1oBSt7ttxs)
+  - [Vídeo 6](https://youtu.be/UhN8Vpo6Mx0)
 - [Live da semana](https://www.youtube.com/watch?v=eCVOUixNcE4)
 
 ### Leituras
@@ -96,6 +108,12 @@ Facebook](https://developers.facebook.com/docs/graph-api).
 
 - [Playlist das
   aulas](https://www.youtube.com/playlist?list=PLDKLIBh3YKkvvJCC9lUa2RCgbksveGQ5S)
+  - [Vídeo 1](https://youtu.be/MMHUgSOoIb0)
+  - [Vídeo 2](https://youtu.be/x8dS9BQozns)
+  - [Vídeo 3](https://youtu.be/GrBaBex2zzg)
+  - [Vídeo 4](https://youtu.be/wrNsUJh5P0w)
+  - [Vídeo 5](https://youtu.be/AS-mEGZlcI8)
+  - [Vídeo 6](https://youtu.be/gkOqQKnmwF4)
 - [Live da semana](https://www.youtube.com/watch?v=Xox_2DrZ9eQ)
 
 ### Leituras
@@ -121,6 +139,13 @@ Facebook](https://developers.facebook.com/docs/graph-api).
 
 - [Playlist das
   aulas](https://www.youtube.com/playlist?list=PLDKLIBh3YKkt2b21tsGQh2XVtL2Sb8U3A)
+  - [Vídeo 1](https://youtu.be/StAJvngq3sQ)
+  - [Vídeo 2](https://youtu.be/WslFm29RS2o)
+  - [Vídeo 3](https://youtu.be/sm42nqgEqr0)
+  - [Vídeo 4](https://youtu.be/A2rXKbXQnO4)
+  - [Vídeo 5](https://youtu.be/9xWCGGrmfY0)
+  - [Vídeo 6](https://youtu.be/YzRsU6J697w)
+  - [Vídeo 7](https://youtu.be/plxvMvSXuuM)
 - [Live da semana](https://www.youtube.com/watch?v=sfKDq00f_SQ)
 
 ### Leituras
